@@ -1,6 +1,6 @@
 # BlackJack Game
 
-![BlackJack Screenshot](screenshots/screenshot.png)
+![BlackJack Screenshot](screenshots/screeenshot.png)
 
 Welcome to the BlackJack Game repository! This project presents a web-based implementation of the classic card game Blackjack. Enjoy the thrill of playing BlackJack right in your web browser!
 
