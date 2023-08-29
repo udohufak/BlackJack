@@ -8,8 +8,14 @@ body {
     height: 98vh;
     display: flex;
     flex-direction: column;
-    align-items: center;
     justify-content: center;
+    align-items: center;
+}
+
+section{
+    border: 4px solid goldenrod;
+    padding: 30px;
+    border-radius: 13px;
 }
 
 h1 {
@@ -34,10 +40,20 @@ button {
     margin-bottom: 2px;
     margin-top: 2px;
     height: 40px;
+    cursor: pointer;
+    transition: all 0.4s;
 }
+
+button:hover{
+    background-color: transparent;
+    color: gold;
+    border: 2px solid goldenrod;
+}
+
 .btn-ctn{
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    gap: 10px;
 }
